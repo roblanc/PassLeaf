@@ -1,6 +1,6 @@
 # PassLeaf
 
-PassLeaf is a minimalistic password generator that helps you create strong, random passwords through a clean and intuitive interface. The page now sports a modern look with a gradient background and the Poppins font. A **Copy** button lets you quickly place the generated password on your clipboard.
+PassLeaf is a minimalistic password generator that helps you create strong, random passwords through a clean and intuitive interface. The page now sports a modern look with a gradient background and the arcade-inspired **Press Start 2P** font. A **Copy** button lets you quickly place the generated password on your clipboard.
 
 
 ## Getting Started
