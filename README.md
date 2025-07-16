@@ -1,6 +1,6 @@
 # PassLeaf
 
-[Try IT](https://passleaf.netlify.app)
+🤭[Try IT](https://passleaf.netlify.app)
 
 ## Getting Started
 
