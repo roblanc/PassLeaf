@@ -1,6 +1,6 @@
 # PassLeaf
 
-Generate your own passwords: (https://passleaf.netlify.app)
+[Generate your own passwords] (https://passleaf.netlify.app)
 
 ## Getting Started
 
